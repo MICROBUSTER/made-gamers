@@ -1,3 +1,7 @@
+
+# mad-gamers
+an repository for those who love games a lot..
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,8 +12,7 @@ table, th, td {
 </style>
 </head>
 <body>
-# mad-gamers
-an repository for those who love games a lot..
+
 <table style="width:100%">
 <th>Game</th>
     <th>Aim</th> 
