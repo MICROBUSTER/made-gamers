@@ -18,7 +18,7 @@ an repository for those who love games a lot..
   </tr>
   <tr>
     <td><a href="http://www.pokemongo.com/en-au/pokemon/">pokemon go</a></td>
-    <td>to have a good natured pokemon mind<tr>
+    <td>to have a good natured pokemon mind</td>
     <td>arcade</td>
   </tr>
 </table>
