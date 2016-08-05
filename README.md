@@ -12,7 +12,7 @@ an repository for those who love games a lot..
     <td>stretagy</td>
   </tr>
   <tr>
-    <td>minecraft</td>
+    <td><a href="https://minecraft.net/en/">minecraft</a></td>
     <td>to make pepole learn how to build and survive</td> 
     <td>full of freness</td>
   </tr>
