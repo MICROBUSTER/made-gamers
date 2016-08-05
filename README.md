@@ -7,7 +7,7 @@ an repository for those who love games a lot..
     <th>Type</th>
   </tr>
   <tr>
-    <td>clash of clans</td>
+    <td>clash of clans [https://clashofclans.com/]</td>
     <td></td> 
     <td>stretagy</td>
   </tr>
