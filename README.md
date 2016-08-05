@@ -1,17 +1,20 @@
 # mad-gamers
 an repository for those who love games a lot..
-<games>
-    <game>
-        <id>1</id>
-        <name>Clash_of_clans</name>
-        <aim></aim>
-        <type>Strategy</type>
-    </game>
-    <game>
-        <id>2</id>
-        <name>Minecraft</name>
-        <aim>To_make_people_learn_build_something</aim>
-        <type>Full_of_freness</type>
-    </game>
+<table style="width:100%">
+<th>Game</th>
+    <th>Aim</th> 
+    <th>Type</th>
+  </game>
+  <game>
+    <td>clash of clans</td>
+    <td></td> 
+    <td>stretagy</td>
+  </game>
+  <game>
+    <td>minecraft</td>
+    <td>to make pepole learn how to build and survive</td> 
+    <td>full of freness</td>
+  </tr>
+</table>
 
 
