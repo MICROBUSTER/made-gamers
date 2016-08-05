@@ -17,9 +17,9 @@ an repository for those who love games a lot..
     <td>full of freness</td>
   </tr>
   <tr>
-  <td><a href="http://www.pokemongo.com/en-au/pokemon/">pokemon go</a></td>
-  <td>to have a good natured pokemon mind<tr>
-  <td>arcade</td>
+    <td><a href="http://www.pokemongo.com/en-au/pokemon/">pokemon go</a></td>
+    <td>to have a good natured pokemon mind<tr>
+    <td>arcade</td>
   </tr>
 </table>
 
