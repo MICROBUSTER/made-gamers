@@ -1,7 +1,7 @@
 
 # mad-gamers
 an repository for those who love games a lot..
-<table style="width:100%">
+<table style="width:90%">
 <th>Game</th>
     <th>Aim</th> 
     <th>Type</th>
@@ -13,9 +13,13 @@ an repository for those who love games a lot..
   </tr>
   <tr>
     <td><a href="https://minecraft.net/en/">minecraft</a></td>
-    <td>to make pepole learn how to build and survive</td> 
+    <td>to make pepole learn how to build and survive</td>
     <td>full of freness</td>
   </tr>
+  <tr>
+  <td><a href="http://www.pokemongo.com/en-au/pokemon/">pokemon go</a></td>
+  <td>to have a good natured pokemon mind<tr>
+  <td>arcade</td>
 </table>
 
 
