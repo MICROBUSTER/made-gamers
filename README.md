@@ -1,14 +1,6 @@
 
 # mad-gamers
 an repository for those who love games a lot..
-
-table, th, td {
-    border: 1px solid black;
-}
-</style>
-</head>
-<body>
-
 <table style="width:100%">
 <th>Game</th>
     <th>Aim</th> 
