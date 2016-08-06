@@ -2,7 +2,7 @@
 # mad-gamers
 a repository for those who love games a lot..
 
-![alt text][http://worldartsme.com/images/realistic-lightning-clipart-1.jpg]
+![alt text](http://worldartsme.com/images/realistic-lightning-clipart-1.jpg)
 
 <table style="width:90%">
 <th>Game</th>
