@@ -2,6 +2,8 @@
 # mad-gamers
 a repository for those who love games a lot..
 
+![alt text](https://logomakr.com/6cLQL4)
+
 <table style="width:90%">
 <th>Game</th>
     <th>Aim</th> 
