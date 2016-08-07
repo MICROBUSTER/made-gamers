@@ -31,4 +31,7 @@ a repository for those who love games a lot..
   </tr>
 </table>
 
+REM This software is used to cheak your gamometer.
+INPUT have many years 
+
 
