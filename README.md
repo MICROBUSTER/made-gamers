@@ -31,6 +31,4 @@ a repository for those who love games a lot..
   </tr>
 </table>
 
-//The table will move 3x pixiles  
-
 
