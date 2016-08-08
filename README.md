@@ -31,10 +31,15 @@ a repository for those who love games a lot..
   </tr>
 </table>
 
-<h1>My First JavaScript</h1>
+<!DOCTYPE html>
+<html>
+<body>
 
 <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()">
 Click me to display Date and Time.</button>
 
 <p id="demo"></p>
+
+</body>
+</html>
