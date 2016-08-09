@@ -31,11 +31,8 @@ a repository for those who love games a lot..
   </tr>
 </table>
 
-<!DOCTYPE html>
 <html>
 <body>
-
-<h1>My First JavaScript</h1>
 
 <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()">
